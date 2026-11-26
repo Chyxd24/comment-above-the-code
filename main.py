@@ -2,7 +2,7 @@
 """Writes the competition entry line to /output/entry.txt."""
 import os
 
-ENTRY = "# Don't touch this. The one person who understood it left, and took the why with them."
+ENTRY = "# This works. Nobody knows why, including me, and I wrote it. Leave it alone."
 
 
 def main() -> None:
